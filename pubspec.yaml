@@ -1,4 +1,4 @@
-name: yuvtransform
+name: vu_yuv_transform
 description: Transform Android CameraImage Stream YUV420 to RBG Format
 version: 0.0.2
 homepage: https://github.com/zuzu-dev/yuvtransform
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  camera: ^0.9.4
+  camera: ^0.10.5+2
 
 dev_dependencies:
   flutter_test:
