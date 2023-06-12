@@ -4,7 +4,7 @@ import 'dart:typed_data';
 import 'package:camera/camera.dart';
 import 'package:flutter/services.dart';
 
-class Yuvtransform {
+class VuYuvTransform {
   static const MethodChannel _channel = MethodChannel('yuvtransform');
 
   static Future<Uint8List> yuvTransform(CameraImage image,
