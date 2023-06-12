@@ -1,4 +1,4 @@
-name: vu_yuv_transform
+name: yuvtransform
 description: Transform Android CameraImage Stream YUV420 to RBG Format
 version: 0.0.2
 homepage: https://github.com/zuzu-dev/yuvtransform
